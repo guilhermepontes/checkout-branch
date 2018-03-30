@@ -6,6 +6,9 @@ Easily checkout branches with CLI
 #### Installation
 `npm install checkout-branch -g`
 
+#### Create an alias
+`alias checkout="checkout-branch"`
+
 #### Usage 
 `checkout-branch`
 
